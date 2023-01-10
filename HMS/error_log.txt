@@ -1,0 +1,27 @@
+[09-Jan-2023 13:45:39 Europe/Berlin] PHP Warning:  Undefined variable $errors in C:\xampp\htdocs\HMS\login.php on line 42
+[09-Jan-2023 13:45:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\HMS\login.php:42
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\HMS\login.php on line 42
+[09-Jan-2023 13:48:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function check_required_fields() in C:\xampp\htdocs\HMS\login.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\HMS\login.php on line 14
+[09-Jan-2023 13:49:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_prep() in C:\xampp\htdocs\HMS\login.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\HMS\login.php on line 14
+[09-Jan-2023 13:49:49 Europe/Berlin] PHP Warning:  Undefined variable $found_user in C:\xampp\htdocs\HMS\login.php on line 24
+[09-Jan-2023 13:49:49 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\HMS\login.php on line 24
+[09-Jan-2023 13:51:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in C:\xampp\htdocs\HMS\login.php:27
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\HMS\login.php on line 27
+[09-Jan-2023 13:52:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in C:\xampp\htdocs\HMS\login.php:25
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\HMS\login.php on line 25
+[09-Jan-2023 13:52:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function redirect_to() in C:\xampp\htdocs\HMS\login.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\HMS\login.php on line 22
